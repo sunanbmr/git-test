@@ -1,3 +1,4 @@
 this is a article file
 change made locally.
+Just some changes to check GUI version of GIT
 
